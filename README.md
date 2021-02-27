@@ -1,7 +1,7 @@
 # PhasModHelp
 Help for bypass/melon loader installation
 
----------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////
 
 Phasmophobia Bypass for Melon Loader
 
@@ -12,7 +12,7 @@ https://github.com/Glatrix/PHAS-MELON-LOADER-HELP/raw/Glatrix/PhasBypass.dll In 
 
 Note- This ONLY works on steam version 0.2(prison update)
 
----------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////
 
 Phasmophobia Melon Loader Tutorial
 
@@ -21,4 +21,4 @@ When prompted to install to a game, Select Phasmophobia.exe located at steamall/
 
 Now, in phasmophobia folder, go to Phasmophobia\MelonLoader\Dependencies\ and replace assemblygenerator with https://github.com/Glatrix/PHAS-MELON-LOADER-HELP/raw/Glatrix/MelonLoader.AssemblyGenerator.exe
 
----------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////
